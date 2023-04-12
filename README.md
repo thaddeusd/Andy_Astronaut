@@ -1,5 +1,5 @@
 # Andy_Astronaut
-Game Maker project
+Game Maker 1.4 project
 
 This is the source code for Andy the Astronaut. It's a game like Flappy Birds, except that you are an astronaut in space.
 Why are there pillars on the moon? It doesn't matter. Dodge them and increase your score. Beware the Moon Shark!
